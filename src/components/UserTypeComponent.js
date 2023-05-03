@@ -12,7 +12,7 @@ function UserTypeComponent() {
   return (
     <>
     <Loader></Loader>
-    <OurService to={" To"} text={"Jarvis Systems"}></OurService>
+    <OurService to={" To"} text={"Secure Blockchain Network"}></OurService>
   
  <div className='d-lg-flex align-items-lg-center'>
       
