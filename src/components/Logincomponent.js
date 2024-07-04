@@ -23,7 +23,7 @@ const BalanceContractABI=[
 		"type": "function"
 	}
 ];
-const BalanceContractAddress="0x6c7b79071922323cAAEbc1A5D253A2885237527F";
+const BalanceContractAddress="0xeECfA8221563E2867f9DE9d463F02B69F82957e8";
 
 
 function Logincomponent(props) {
@@ -46,7 +46,7 @@ function Logincomponent(props) {
           console.log("Make sure you have Metamask installed!");
           return;
         } else {
-          //console.log("Wallet exists! We're ready to go!")
+          console.log("Wallet exists! We're ready to go!")
         }
     
         const accounts = await ethereum.request({ method: 'eth_accounts' });
