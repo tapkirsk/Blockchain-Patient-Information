@@ -23,7 +23,7 @@ const BalanceContractABI=[
 		"type": "function"
 	}
 ];
-const BalanceContractAddress="0xeECfA8221563E2867f9DE9d463F02B69F82957e8";
+const BalanceContractAddress="0x4c6ce69364E082D02c52B9b8F9A1DE0437FCE5E7";
 
 
 function Logincomponent(props) {
